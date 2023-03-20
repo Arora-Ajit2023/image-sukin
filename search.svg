@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Shopping bag" role="img" width="16" viewBox="0 0 16 16" class="">
+      <title>Shopping bag</title>
+      <desc>Shopping bag Icon</desc>
+
+      
+          <path d="M11.205 6.5H4.972l-.23 1.606-1.484-.212.199-1.394H1.5v7.947h13V6.5h-1.78l.2 1.394-1.485.212-.23-1.606zM12.506 5h2.652c.465 0 .842.377.842.842v9.263a.842.842 0 0 1-.842.842H.842A.842.842 0 0 1 0 15.105V5.842C0 5.377.377 5 .842 5h2.829L4.258.894A.75.75 0 0 1 5 .25h6.177a.75.75 0 0 1 .743.644L12.506 5zm-1.515 0l-.464-3.25H5.65L5.186 5h5.805z" class="fill"/>
+        
+    </svg>
